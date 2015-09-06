@@ -1,5 +1,7 @@
 # Coffee-React
 
+[![Join the chat at https://gitter.im/jsdf/coffee-react](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jsdf/coffee-react?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Coffee-React provides a JSX-like syntax for building [React](http://facebook.github.io/react/) components with the full awesomeness of CoffeeScript.
 
 [Try it out](https://jsdf.github.io/coffee-react-transform/).
